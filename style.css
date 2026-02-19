@@ -431,6 +431,13 @@ header {
     color: black;
 }
 
+/* .footer-terms-policy{
+    font-size:14px ;
+    color: black;
+    font-weight: normal;
+    align-content: center;
+} */
+
 /* Responsive Design */
 
 @media (max-width: 1287px) {
